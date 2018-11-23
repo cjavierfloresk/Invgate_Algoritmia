@@ -26,7 +26,8 @@ namespace Invgate_Algoritmia
 		}
 
 		private static void ProcessFile(string filepath)
-		{ 
+		{
+			Console.WriteLine(String.Format("Procesing file: {0}", filepath));
 			try
 			{
 				//create the container of the file content
@@ -74,11 +75,14 @@ namespace Invgate_Algoritmia
 				lstOutput = lstOutput.OrderBy(x => x).ToList();
 
 				//show the output
+				Console.WriteLine("***** RESULTS ******");
 				foreach (var o in lstOutput)
 				{
 					Console.WriteLine(o);
 				}
-
+				Console.WriteLine();
+				Console.WriteLine("*******************************************************");	
+				Console.WriteLine();
 
 			}
 			catch (IOException ioex)
