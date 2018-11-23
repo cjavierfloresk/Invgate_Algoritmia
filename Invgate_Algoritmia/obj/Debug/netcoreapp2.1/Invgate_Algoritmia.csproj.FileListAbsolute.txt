@@ -1,0 +1,11 @@
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Invgate_Algoritmia\bin\Debug\netcoreapp2.1\Invgate_Algoritmia.deps.json
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Invgate_Algoritmia\bin\Debug\netcoreapp2.1\Invgate_Algoritmia.runtimeconfig.json
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Invgate_Algoritmia\bin\Debug\netcoreapp2.1\Invgate_Algoritmia.runtimeconfig.dev.json
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Invgate_Algoritmia\bin\Debug\netcoreapp2.1\Invgate_Algoritmia.dll
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Invgate_Algoritmia\bin\Debug\netcoreapp2.1\Invgate_Algoritmia.pdb
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Invgate_Algoritmia\obj\Debug\netcoreapp2.1\Invgate_Algoritmia.csprojAssemblyReference.cache
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Invgate_Algoritmia\obj\Debug\netcoreapp2.1\Invgate_Algoritmia.csproj.CoreCompileInputs.cache
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Invgate_Algoritmia\obj\Debug\netcoreapp2.1\Invgate_Algoritmia.AssemblyInfoInputs.cache
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Invgate_Algoritmia\obj\Debug\netcoreapp2.1\Invgate_Algoritmia.AssemblyInfo.cs
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Invgate_Algoritmia\obj\Debug\netcoreapp2.1\Invgate_Algoritmia.dll
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Invgate_Algoritmia\obj\Debug\netcoreapp2.1\Invgate_Algoritmia.pdb
