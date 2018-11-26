@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invgate_Algoritmia", "Invga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tamagochi", "Tamagochi\Tamagochi.csproj", "{7C0AFCCD-78D7-4F99-983A-B5ADFD8C34ED}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{2643D6D3-B704-4F61-80C3-1D2EBB9A25DE}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\Examen-20181109T165213Z-001\Examen\SQL\SQL 1.sql = ..\..\..\Documents\Examen-20181109T165213Z-001\Examen\SQL\SQL 1.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
