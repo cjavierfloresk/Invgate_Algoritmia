@@ -3,14 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invgate_Algoritmia", "Invgate_Algoritmia\Invgate_Algoritmia.csproj", "{75A66857-24B9-4FD9-8766-761BE823A6E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Invgate_Algoritmia", "Invgate_Algoritmia\1.Invgate_Algoritmia.csproj", "{75A66857-24B9-4FD9-8766-761BE823A6E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tamagochi", "Tamagochi\Tamagochi.csproj", "{7C0AFCCD-78D7-4F99-983A-B5ADFD8C34ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Tamagochi", "Tamagochi\2.Tamagochi.csproj", "{7C0AFCCD-78D7-4F99-983A-B5ADFD8C34ED}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{2643D6D3-B704-4F61-80C3-1D2EBB9A25DE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.SQL", "3.SQL", "{2643D6D3-B704-4F61-80C3-1D2EBB9A25DE}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\Documents\Examen-20181109T165213Z-001\Examen\SQL\SQL 1.sql = ..\..\..\Documents\Examen-20181109T165213Z-001\Examen\SQL\SQL 1.sql
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Implementacion", "4.Implementacion\4.Implementacion.csproj", "{288B873D-D932-438C-A804-17FBFD441B55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{7C0AFCCD-78D7-4F99-983A-B5ADFD8C34ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C0AFCCD-78D7-4F99-983A-B5ADFD8C34ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C0AFCCD-78D7-4F99-983A-B5ADFD8C34ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288B873D-D932-438C-A804-17FBFD441B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288B873D-D932-438C-A804-17FBFD441B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288B873D-D932-438C-A804-17FBFD441B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288B873D-D932-438C-A804-17FBFD441B55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

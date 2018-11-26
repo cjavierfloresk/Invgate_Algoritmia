@@ -687,9 +687,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cjavi\\Sistemas FyF\\InvGate\\Algoritmia\\Invgate_Algoritmia\\Invgate_Algoritmia.csproj",
-      "projectName": "Invgate_Algoritmia",
-      "projectPath": "C:\\Users\\cjavi\\Sistemas FyF\\InvGate\\Algoritmia\\Invgate_Algoritmia\\Invgate_Algoritmia.csproj",
+      "projectUniqueName": "C:\\Users\\cjavi\\Sistemas FyF\\InvGate\\Algoritmia\\Invgate_Algoritmia\\1.Invgate_Algoritmia.csproj",
+      "projectName": "1.Invgate_Algoritmia",
+      "projectPath": "C:\\Users\\cjavi\\Sistemas FyF\\InvGate\\Algoritmia\\Invgate_Algoritmia\\1.Invgate_Algoritmia.csproj",
       "packagesPath": "C:\\Users\\cjavi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\cjavi\\Sistemas FyF\\InvGate\\Algoritmia\\Invgate_Algoritmia\\obj\\",
       "projectStyle": "PackageReference",

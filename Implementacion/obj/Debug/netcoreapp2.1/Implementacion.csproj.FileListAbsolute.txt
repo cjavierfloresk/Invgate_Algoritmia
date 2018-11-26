@@ -1,0 +1,3 @@
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Implementacion\obj\Debug\netcoreapp2.1\Implementacion.csproj.CoreCompileInputs.cache
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Implementacion\obj\Debug\netcoreapp2.1\Implementacion.AssemblyInfoInputs.cache
+C:\Users\cjavi\Sistemas FyF\InvGate\Algoritmia\Implementacion\obj\Debug\netcoreapp2.1\Implementacion.AssemblyInfo.cs
