@@ -54,8 +54,9 @@
     <Compile Include="Tamagochi.cs" />
     <Compile Include="TipoRuido.cs" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="_DiagramaClases\" />
+    <Content Include="_DiagramaClases\DiagramaClases.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
